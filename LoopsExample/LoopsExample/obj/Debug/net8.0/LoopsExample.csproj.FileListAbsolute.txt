@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\bin\Debug\net8.0\LoopsExample.exe
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\bin\Debug\net8.0\LoopsExample.deps.json
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\bin\Debug\net8.0\LoopsExample.runtimeconfig.json
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\bin\Debug\net8.0\LoopsExample.dll
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\bin\Debug\net8.0\LoopsExample.pdb
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\obj\Debug\net8.0\LoopsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\obj\Debug\net8.0\LoopsExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\obj\Debug\net8.0\LoopsExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\obj\Debug\net8.0\LoopsExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\obj\Debug\net8.0\LoopsExample.dll
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\obj\Debug\net8.0\refint\LoopsExample.dll
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\obj\Debug\net8.0\LoopsExample.pdb
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\obj\Debug\net8.0\LoopsExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\LoopsExample\LoopsExample\obj\Debug\net8.0\ref\LoopsExample.dll
