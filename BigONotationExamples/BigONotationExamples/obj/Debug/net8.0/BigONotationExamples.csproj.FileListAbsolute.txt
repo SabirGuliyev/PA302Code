@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\bin\Debug\net8.0\BigONotationExamples.exe
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\bin\Debug\net8.0\BigONotationExamples.deps.json
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\bin\Debug\net8.0\BigONotationExamples.runtimeconfig.json
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\bin\Debug\net8.0\BigONotationExamples.dll
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\bin\Debug\net8.0\BigONotationExamples.pdb
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\obj\Debug\net8.0\BigONotationExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\obj\Debug\net8.0\BigONotationExamples.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\obj\Debug\net8.0\BigONotationExamples.AssemblyInfo.cs
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\obj\Debug\net8.0\BigONotationExamples.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\obj\Debug\net8.0\BigONotationExamples.dll
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\obj\Debug\net8.0\refint\BigONotationExamples.dll
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\obj\Debug\net8.0\BigONotationExamples.pdb
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\obj\Debug\net8.0\BigONotationExamples.genruntimeconfig.cache
+C:\Users\sabir\Desktop\BigONotationExamples\BigONotationExamples\obj\Debug\net8.0\ref\BigONotationExamples.dll
