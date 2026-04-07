@@ -1,0 +1,14 @@
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\bin\Debug\net8.0\DataStructuresExample.exe
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\bin\Debug\net8.0\DataStructuresExample.deps.json
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\bin\Debug\net8.0\DataStructuresExample.runtimeconfig.json
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\bin\Debug\net8.0\DataStructuresExample.dll
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\bin\Debug\net8.0\DataStructuresExample.pdb
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\obj\Debug\net8.0\DataStructuresExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\obj\Debug\net8.0\DataStructuresExample.AssemblyInfoInputs.cache
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\obj\Debug\net8.0\DataStructuresExample.AssemblyInfo.cs
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\obj\Debug\net8.0\DataStructuresExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\obj\Debug\net8.0\DataStructuresExample.dll
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\obj\Debug\net8.0\refint\DataStructuresExample.dll
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\obj\Debug\net8.0\DataStructuresExample.pdb
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\obj\Debug\net8.0\DataStructuresExample.genruntimeconfig.cache
+C:\Users\sabir.guliyev\source\repos\DataStructuresExample\DataStructuresExample\obj\Debug\net8.0\ref\DataStructuresExample.dll
