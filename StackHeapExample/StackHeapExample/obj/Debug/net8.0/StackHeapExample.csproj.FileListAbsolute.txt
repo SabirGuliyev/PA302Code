@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\bin\Debug\net8.0\StackHeapExample.exe
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\bin\Debug\net8.0\StackHeapExample.deps.json
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\bin\Debug\net8.0\StackHeapExample.runtimeconfig.json
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\bin\Debug\net8.0\StackHeapExample.dll
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\bin\Debug\net8.0\StackHeapExample.pdb
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\obj\Debug\net8.0\StackHeapExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\obj\Debug\net8.0\StackHeapExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\obj\Debug\net8.0\StackHeapExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\obj\Debug\net8.0\StackHeapExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\obj\Debug\net8.0\StackHeapExample.dll
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\obj\Debug\net8.0\refint\StackHeapExample.dll
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\obj\Debug\net8.0\StackHeapExample.pdb
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\obj\Debug\net8.0\StackHeapExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\StackHeapExample\StackHeapExample\obj\Debug\net8.0\ref\StackHeapExample.dll
