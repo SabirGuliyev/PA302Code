@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\StringBuilderExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F184CA-76CB-4EB7-8339-04E180A545D1}|StringBuilderExample\\StringBuilderExample.csproj|c:\\users\\sabir\\desktop\\stringbuilderexample\\stringbuilderexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60F184CA-76CB-4EB7-8339-04E180A545D1}|StringBuilderExample\\StringBuilderExample.csproj|solutionrelative:stringbuilderexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\StringBuilderExample\\StringBuilderExample\\Program.cs",
+              "RelativeDocumentMoniker": "StringBuilderExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\StringBuilderExample\\StringBuilderExample\\Program.cs",
+              "RelativeToolTip": "StringBuilderExample\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T17:41:09.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
