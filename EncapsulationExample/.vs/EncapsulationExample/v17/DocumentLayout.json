@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C034AC18-15F3-4805-8159-FD0BA109E91E}|EncapsulationExample\\EncapsulationExample.csproj|c:\\users\\sabir\\desktop\\encapsulationexample\\encapsulationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C034AC18-15F3-4805-8159-FD0BA109E91E}|EncapsulationExample\\EncapsulationExample.csproj|solutionrelative:encapsulationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C034AC18-15F3-4805-8159-FD0BA109E91E}|EncapsulationExample\\EncapsulationExample.csproj|c:\\users\\sabir\\desktop\\encapsulationexample\\encapsulationexample\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C034AC18-15F3-4805-8159-FD0BA109E91E}|EncapsulationExample\\EncapsulationExample.csproj|solutionrelative:encapsulationexample\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C034AC18-15F3-4805-8159-FD0BA109E91E}|EncapsulationExample\\EncapsulationExample.csproj|c:\\users\\sabir\\desktop\\encapsulationexample\\encapsulationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C034AC18-15F3-4805-8159-FD0BA109E91E}|EncapsulationExample\\EncapsulationExample.csproj|solutionrelative:encapsulationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C034AC18-15F3-4805-8159-FD0BA109E91E}|EncapsulationExample\\EncapsulationExample.csproj|c:\\users\\sabir\\desktop\\encapsulationexample\\encapsulationexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C034AC18-15F3-4805-8159-FD0BA109E91E}|EncapsulationExample\\EncapsulationExample.csproj|solutionrelative:encapsulationexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\EncapsulationExample\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "EncapsulationExample\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\EncapsulationExample\\Models\\Teacher.cs",
+              "RelativeToolTip": "EncapsulationExample\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:15:14.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\EncapsulationExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "EncapsulationExample\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\EncapsulationExample\\Models\\Person.cs",
+              "RelativeToolTip": "EncapsulationExample\\Models\\Person.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T16:13:36.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\EncapsulationExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EncapsulationExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\EncapsulationExample\\Models\\Student.cs",
+              "RelativeToolTip": "EncapsulationExample\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T15:28:27.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\EncapsulationExample\\Program.cs",
+              "RelativeDocumentMoniker": "EncapsulationExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\EncapsulationExample\\Program.cs",
+              "RelativeToolTip": "EncapsulationExample\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T15:07:52.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
