@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\bin\Debug\net8.0\EncapsulationExample.exe
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\bin\Debug\net8.0\EncapsulationExample.deps.json
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\bin\Debug\net8.0\EncapsulationExample.runtimeconfig.json
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\bin\Debug\net8.0\EncapsulationExample.dll
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\bin\Debug\net8.0\EncapsulationExample.pdb
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.dll
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\obj\Debug\net8.0\refint\EncapsulationExample.dll
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.pdb
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\obj\Debug\net8.0\EncapsulationExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\EncapsulationExample\EncapsulationExample\obj\Debug\net8.0\ref\EncapsulationExample.dll

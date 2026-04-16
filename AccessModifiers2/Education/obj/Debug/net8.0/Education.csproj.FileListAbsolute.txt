@@ -1,0 +1,5 @@
+C:\Users\sabir\Desktop\AccessModifiers2\Education\obj\Debug\net8.0\Education.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\AccessModifiers2\Education\obj\Debug\net8.0\Education.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\AccessModifiers2\Education\obj\Debug\net8.0\Education.AssemblyInfo.cs
+C:\Users\sabir\Desktop\AccessModifiers2\Education\obj\Debug\net8.0\Education.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\AccessModifiers2\Education\obj\Debug\net8.0\Education.csproj.AssemblyReference.cache
