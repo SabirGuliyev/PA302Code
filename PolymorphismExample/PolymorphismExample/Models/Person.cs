@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PolymorphismExample.Models
+{
+    internal class Person
+    {
+        public string Name { get; set; }
+
+        public string Surname { get; set; }
+        public int Age { get; set; }
+
+        public virtual void PrintInfo()
+        {
+            Console.WriteLine($"{Name} {Surname} {Age}");
+        }
+
+        public sealed override string ToString()
+        {
+            return Name;
+        }
+
+    }
+}

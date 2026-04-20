@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|c:\\users\\sabir\\desktop\\polymorphismexample\\polymorphismexample\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|solutionrelative:polymorphismexample\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|c:\\users\\sabir\\desktop\\polymorphismexample\\polymorphismexample\\zoo\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|solutionrelative:polymorphismexample\\zoo\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|c:\\users\\sabir\\desktop\\polymorphismexample\\polymorphismexample\\zoo\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|solutionrelative:polymorphismexample\\zoo\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|c:\\users\\sabir\\desktop\\polymorphismexample\\polymorphismexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|solutionrelative:polymorphismexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|c:\\users\\sabir\\desktop\\polymorphismexample\\polymorphismexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|solutionrelative:polymorphismexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|c:\\users\\sabir\\desktop\\polymorphismexample\\polymorphismexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|solutionrelative:polymorphismexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|c:\\users\\sabir\\desktop\\polymorphismexample\\polymorphismexample\\models\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E68F69-68AD-4392-AB75-282A4A233FD4}|PolymorphismExample\\PolymorphismExample.csproj|solutionrelative:polymorphismexample\\models\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Zoo\\Dog.cs",
+              "RelativeDocumentMoniker": "PolymorphismExample\\Zoo\\Dog.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Zoo\\Dog.cs",
+              "RelativeToolTip": "PolymorphismExample\\Zoo\\Dog.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:16:02.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Zoo\\Cow.cs",
+              "RelativeDocumentMoniker": "PolymorphismExample\\Zoo\\Cow.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Zoo\\Cow.cs",
+              "RelativeToolTip": "PolymorphismExample\\Zoo\\Cow.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:15:03.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Zoo\\Animal.cs",
+              "RelativeDocumentMoniker": "PolymorphismExample\\Zoo\\Animal.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Zoo\\Animal.cs",
+              "RelativeToolTip": "PolymorphismExample\\Zoo\\Animal.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:11:24.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Police.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Models\\Police.cs",
+              "RelativeDocumentMoniker": "PolymorphismExample\\Models\\Police.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Models\\Police.cs",
+              "RelativeToolTip": "PolymorphismExample\\Models\\Police.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:40:31.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "PolymorphismExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Models\\Student.cs",
+              "RelativeToolTip": "PolymorphismExample\\Models\\Student.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:25:03.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PolymorphismExample\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Models\\Person.cs",
+              "RelativeToolTip": "PolymorphismExample\\Models\\Person.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:21:52.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Program.cs",
+              "RelativeDocumentMoniker": "PolymorphismExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PolymorphismExample\\PolymorphismExample\\Program.cs",
+              "RelativeToolTip": "PolymorphismExample\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAQwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:04:40.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
