@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\interfaces\\iflyswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\interfaces\\iflyswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\interfaces\\itest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\interfaces\\itest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\zoo\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\zoo\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\zoo\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\zoo\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\zoo\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\zoo\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\zoo\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\zoo\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\models\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\zoo\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\zoo\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\interfaceexample\\interfaceexample\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02C4914-1EB1-4DFE-87D4-956D7A688E39}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFlySwim.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Interfaces\\IFlySwim.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Interfaces\\IFlySwim.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Interfaces\\IFlySwim.cs",
+              "RelativeToolTip": "InterfaceExample\\Interfaces\\IFlySwim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:37:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Models\\Ship.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Ship.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Models\\Ship.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Ship.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:34:56.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Duck.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Zoo\\Duck.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Duck.cs",
+              "RelativeToolTip": "InterfaceExample\\Zoo\\Duck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:29:27.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISwim.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Interfaces\\ISwim.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Interfaces\\ISwim.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Interfaces\\ISwim.cs",
+              "RelativeToolTip": "InterfaceExample\\Interfaces\\ISwim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:24:45.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Models\\Plane.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Plane.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Models\\Plane.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Plane.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:11:24.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITest.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Interfaces\\ITest.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Interfaces\\ITest.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Interfaces\\ITest.cs",
+              "RelativeToolTip": "InterfaceExample\\Interfaces\\ITest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:34:19.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFly.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Interfaces\\IFly.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Interfaces\\IFly.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Interfaces\\IFly.cs",
+              "RelativeToolTip": "InterfaceExample\\Interfaces\\IFly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:21:43.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Penguin.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Zoo\\Penguin.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Penguin.cs",
+              "RelativeToolTip": "InterfaceExample\\Zoo\\Penguin.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:11:50.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Eagle.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Zoo\\Eagle.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Eagle.cs",
+              "RelativeToolTip": "InterfaceExample\\Zoo\\Eagle.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:10:39.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Bird.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Zoo\\Bird.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Bird.cs",
+              "RelativeToolTip": "InterfaceExample\\Zoo\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:03:40.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Dog.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Zoo\\Dog.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Dog.cs",
+              "RelativeToolTip": "InterfaceExample\\Zoo\\Dog.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:01:39.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Animal.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Zoo\\Animal.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Zoo\\Animal.cs",
+              "RelativeToolTip": "InterfaceExample\\Zoo\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:59:24.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Models\\Bicycle.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Models\\Bicycle.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Bicycle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:30:42.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Models\\Car.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Car.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:26:37.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Models\\Vehicle.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:09:51.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\InterfaceExample\\InterfaceExample\\Program.cs",
+              "RelativeToolTip": "InterfaceExample\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAQwFYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:01:28.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

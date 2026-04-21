@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.exe
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.deps.json
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.runtimeconfig.json
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.dll
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\bin\Debug\net8.0\InterfaceExample.pdb
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.dll
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\obj\Debug\net8.0\refint\InterfaceExample.dll
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.pdb
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\obj\Debug\net8.0\InterfaceExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\InterfaceExample\InterfaceExample\obj\Debug\net8.0\ref\InterfaceExample.dll
