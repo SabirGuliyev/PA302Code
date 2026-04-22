@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\StaticExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8DCC76-5E56-42AA-9CF5-270BAF5C60D2}|StaticExample\\StaticExample.csproj|c:\\users\\sabir\\desktop\\staticexample\\staticexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8DCC76-5E56-42AA-9CF5-270BAF5C60D2}|StaticExample\\StaticExample.csproj|solutionrelative:staticexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8DCC76-5E56-42AA-9CF5-270BAF5C60D2}|StaticExample\\StaticExample.csproj|c:\\users\\sabir\\desktop\\staticexample\\staticexample\\utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8DCC76-5E56-42AA-9CF5-270BAF5C60D2}|StaticExample\\StaticExample.csproj|solutionrelative:staticexample\\utility\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8DCC76-5E56-42AA-9CF5-270BAF5C60D2}|StaticExample\\StaticExample.csproj|c:\\users\\sabir\\desktop\\staticexample\\staticexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8DCC76-5E56-42AA-9CF5-270BAF5C60D2}|StaticExample\\StaticExample.csproj|solutionrelative:staticexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8DCC76-5E56-42AA-9CF5-270BAF5C60D2}|StaticExample\\StaticExample.csproj|c:\\users\\sabir\\desktop\\staticexample\\staticexample\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8DCC76-5E56-42AA-9CF5-270BAF5C60D2}|StaticExample\\StaticExample.csproj|solutionrelative:staticexample\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\StaticExample\\StaticExample\\Utility\\Helper.cs",
+              "RelativeDocumentMoniker": "StaticExample\\Utility\\Helper.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\StaticExample\\StaticExample\\Utility\\Helper.cs",
+              "RelativeToolTip": "StaticExample\\Utility\\Helper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T17:39:17.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\StaticExample\\StaticExample\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "StaticExample\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\StaticExample\\StaticExample\\Models\\Dog.cs",
+              "RelativeToolTip": "StaticExample\\Models\\Dog.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:38:00.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\StaticExample\\StaticExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "StaticExample\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\StaticExample\\StaticExample\\Models\\Person.cs",
+              "RelativeToolTip": "StaticExample\\Models\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:18:42.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\StaticExample\\StaticExample\\Program.cs",
+              "RelativeDocumentMoniker": "StaticExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\StaticExample\\StaticExample\\Program.cs",
+              "RelativeToolTip": "StaticExample\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIA8wAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:03:13.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
