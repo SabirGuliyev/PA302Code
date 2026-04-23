@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|c:\\users\\sabir\\desktop\\upcastingexamples\\upcastingexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|solutionrelative:upcastingexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|c:\\users\\sabir\\desktop\\upcastingexamples\\upcastingexamples\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|solutionrelative:upcastingexamples\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|c:\\users\\sabir\\desktop\\upcastingexamples\\upcastingexamples\\models\\petshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|solutionrelative:upcastingexamples\\models\\petshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|c:\\users\\sabir\\desktop\\upcastingexamples\\upcastingexamples\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|solutionrelative:upcastingexamples\\animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|c:\\users\\sabir\\desktop\\upcastingexamples\\upcastingexamples\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|solutionrelative:upcastingexamples\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|c:\\users\\sabir\\desktop\\upcastingexamples\\upcastingexamples\\animals\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|solutionrelative:upcastingexamples\\animals\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|c:\\users\\sabir\\desktop\\upcastingexamples\\upcastingexamples\\models\\pointstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|solutionrelative:upcastingexamples\\models\\pointstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|c:\\users\\sabir\\desktop\\upcastingexamples\\upcastingexamples\\itest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|solutionrelative:upcastingexamples\\itest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|c:\\users\\sabir\\desktop\\upcastingexamples\\upcastingexamples\\models\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|solutionrelative:upcastingexamples\\models\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|c:\\users\\sabir\\desktop\\upcastingexamples\\upcastingexamples\\utility\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23186AE-D282-4447-B613-AD085D8A53BF}|UpcastingExamples\\UpcastingExamples.csproj|solutionrelative:upcastingexamples\\utility\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetShop.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Models\\PetShop.cs",
+              "RelativeDocumentMoniker": "UpcastingExamples\\Models\\PetShop.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Models\\PetShop.cs",
+              "RelativeToolTip": "UpcastingExamples\\Models\\PetShop.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T17:31:26.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Animals\\Eagle.cs",
+              "RelativeDocumentMoniker": "UpcastingExamples\\Animals\\Eagle.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Animals\\Eagle.cs",
+              "RelativeToolTip": "UpcastingExamples\\Animals\\Eagle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T17:20:12.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "UpcastingExamples\\Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Animals\\Dog.cs",
+              "RelativeToolTip": "UpcastingExamples\\Animals\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T17:19:21.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Animals\\Animal.cs",
+              "RelativeDocumentMoniker": "UpcastingExamples\\Animals\\Animal.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Animals\\Animal.cs",
+              "RelativeToolTip": "UpcastingExamples\\Animals\\Animal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T17:18:02.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITest.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\ITest.cs",
+              "RelativeDocumentMoniker": "UpcastingExamples\\ITest.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\ITest.cs",
+              "RelativeToolTip": "UpcastingExamples\\ITest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:10:36.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PointStruct.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Models\\PointStruct.cs",
+              "RelativeDocumentMoniker": "UpcastingExamples\\Models\\PointStruct.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Models\\PointStruct.cs",
+              "RelativeToolTip": "UpcastingExamples\\Models\\PointStruct.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:07:04.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PointClass.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Models\\PointClass.cs",
+              "RelativeDocumentMoniker": "UpcastingExamples\\Models\\PointClass.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Models\\PointClass.cs",
+              "RelativeToolTip": "UpcastingExamples\\Models\\PointClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T16:04:37.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "UpcastingExamples\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Models\\Person.cs",
+              "RelativeToolTip": "UpcastingExamples\\Models\\Person.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:14:00.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Utility\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "UpcastingExamples\\Utility\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Utility\\Extensions\\Helper.cs",
+              "RelativeToolTip": "UpcastingExamples\\Utility\\Extensions\\Helper.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:10:35.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Program.cs",
+              "RelativeDocumentMoniker": "UpcastingExamples\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\UpcastingExamples\\UpcastingExamples\\Program.cs",
+              "RelativeToolTip": "UpcastingExamples\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:59:12.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
