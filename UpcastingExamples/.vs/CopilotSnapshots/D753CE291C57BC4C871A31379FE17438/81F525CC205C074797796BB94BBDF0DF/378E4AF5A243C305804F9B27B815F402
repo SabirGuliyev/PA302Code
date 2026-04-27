@@ -1,0 +1,285 @@
+﻿using UpcastingExamples.Animals;
+using UpcastingExamples.Models;
+using UpcastingExamples.Utility.Extensions;
+
+namespace UpcastingExamples
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            //int a = 5;
+
+            //object test = a;
+
+            //int num = (int)test;
+
+            Animal animal = new Eagle
+            {
+                AvgLifeTime = 10,
+                ClawPower = 200,
+                Gender = "female"
+            };
+
+            Animal animal2 = new Dog
+            {
+                AvgLifeTime = 10,
+                Breed = "german shepard",
+                Gender = "male"
+            };
+
+            Eagle eagle = (Eagle)animal;
+
+
+            //Animal[] animals = { animal, animal2 };
+
+            //foreach (Animal anml in animals)
+            //{
+            //    Console.WriteLine(anml.AvgLifeTime);
+            //    Console.WriteLine(anml.Gender);
+            //    anml.MakeSound();
+
+            //    if(anml is Dog dog)
+            //    {
+            //        Console.WriteLine(dog.Breed);
+            //    }
+            //    else if(anml is Eagle eagle)
+            //    {
+            //        Console.WriteLine("Egale claw power:"+eagle.ClawPower);
+            //    }
+
+
+            //    Console.WriteLine("--------------");
+
+
+
+            //}
+
+
+            //1)Explicit
+
+            //Eagle test = (Eagle)animal;///Explicit operator/ Explicit casting
+
+            //Animal animal = new Eagle()
+            //Eagle eagle=animal as Eagle
+
+
+            //2) AS casting operatoru ile casting
+
+            //Eagle test = animal2 as Eagle;
+            //if (test is not null)
+            //{
+            //    Console.WriteLine(test.ClawPower);
+            //    Console.WriteLine(test.Gender);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Wrong input");
+            //}
+
+            //3) is Operatoru ile castin(AMMA CASTING OPERATORU DEYIL!!!  Achtung!!!)
+
+            //if (animal2 is Eagle test)
+            //{
+
+            //    Console.WriteLine(test.ClawPower);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Object is not eagle type");
+            //}
+
+
+
+
+
+
+
+
+            //Animal animal = dog;//implicit casting/ implicit operator/Upcasting
+
+
+            //PetShop petShop = new PetShop();
+
+            //petShop.Feed(dog);
+            //petShop.Feed(eagle);
+
+
+
+            //Animal[] animals = { dog, eagle };
+
+
+            //foreach (Animal animal in animals) {
+
+            //    animal.MakeSound();
+            //    animal.Eat();
+            //    Console.WriteLine("-------");
+            //}
+
+
+
+
+
+
+
+
+
+
+
+            //int[] arr = { 1, 2, 3, 4 };
+
+            //for (int i = 0; i < arr.Length; i++)
+            //{
+            //    arr[i]
+            //}
+
+            //string test = "salam";
+
+
+            //foreach (char letter in test)
+            //{
+            //    Console.WriteLine(letter);
+            //}
+
+            //foreach (int num in arr)
+            //{
+
+            //    Console.WriteLine(num);
+            //}
+
+            //foreach(int num in arr)
+            //{
+
+            //}
+
+
+
+
+
+
+            //PointClass pointClass = new PointClass { 
+            //    X=5,
+            //    Y=3
+            //};
+
+            //PointClass pointClass2 = null;
+            ////Console.WriteLine(pointClass2.ToString());
+
+            ////pointClass2.X = 10;
+
+
+
+            ////Console.WriteLine(pointClass.X);
+
+
+            //PointStruct pointStruct = new PointStruct
+            //{
+            //    X = 5,
+            //    Y = 3
+            //};
+            //PointStruct pointStruct2 = pointStruct;
+
+            //pointStruct2.X = 10;
+
+            //Console.WriteLine(pointStruct.X);
+            //Console.WriteLine(pointStruct2.X);
+
+
+
+            //Console.WriteLine(pointClass.X);
+            //Console.WriteLine(pointClass.Y);
+
+            //Console.WriteLine("----------------");
+
+            //Console.WriteLine(pointStruct.X);
+            //Console.WriteLine(pointStruct.Y);
+
+
+
+
+
+
+
+
+
+
+
+
+            //int number = 5;
+            //int pow = 4;
+
+
+
+            //Console.WriteLine(number.Power(pow));
+            //Console.WriteLine(number.Power());
+
+
+
+
+
+            //Person person = new Person("test", "testov");
+
+
+            //person.Test();
+
+            //Console.WriteLine("sAlaM".Capitalize());
+
+            //PointClass pointClass = new PointClass
+            //{
+            //    X = 5,
+            //    Y = 3
+            //};
+
+            //PointStruct pointStruct = new PointStruct
+            //{
+            //    X = 5,
+            //    Y = 3
+            //};
+
+
+            //Test(pointClass);
+            //Test(ref pointStruct);
+
+        }
+
+        //public static void Test(PointClass test)
+        //{
+        //    Console.WriteLine(test.X);
+        //}
+        //public static void Test(ref PointStruct test)
+        //{
+        //    Console.WriteLine(test.X);
+        //}
+
+        public static int BinarySearch(ReadOnlySpan<int> array, int target)
+        {
+            if (array.IsEmpty) return -1;
+
+            int left = 0;
+            int right = array.Length - 1;
+
+            while (left <= right)
+            {
+                int mid = (left + right) >> 1;
+
+                if (array[mid] == target)
+                {
+                    return mid;
+                }
+                else if (array[mid] < target)
+                {
+                    left = mid + 1;
+                }
+                else
+                {
+                    right = mid - 1;
+                }
+            }
+
+            return left <= right ? mid : -1;
+        }
+
+
+    }
+}

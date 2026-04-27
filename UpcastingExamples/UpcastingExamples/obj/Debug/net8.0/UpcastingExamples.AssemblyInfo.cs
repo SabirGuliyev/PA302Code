@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UpcastingExamples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9f3ba8d8f47e7624c62238f61dfc1bd2fd7e4f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("UpcastingExamples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UpcastingExamples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

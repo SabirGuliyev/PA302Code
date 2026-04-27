@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using UpcastingExamples.Utility.Extensions;
+
+namespace UpcastingExamples.Models
+{
+    internal class Person
+    {
+        public string Name { get; set; }
+        public string Surname { get; set; }
+
+        public Person(string name, string surname)
+        {
+            if (name is null) throw new ArgumentNullException(nameof(name));
+            if (surname is null) throw new ArgumentNullException(nameof(surname));
+            Name = Helper.Capitalize(name);
+            Surname = surname.Capitalize();
+        }
+       
+    }
+}

@@ -8,27 +8,89 @@ namespace UpcastingExamples
     {
         static void Main(string[] args)
         {
-            Animal eagle = new Eagle
+
+            //int a = 5;
+
+            //object test = a;
+
+            //int num = (int)test;
+
+            Animal animal = new Eagle
             {
                 AvgLifeTime = 10,
                 ClawPower = 200,
-                Gender = "male"
+                Gender = "female"
             };
 
-            Animal animal = new Dog
+            Animal animal2 = new Dog
             {
                 AvgLifeTime = 10,
                 Breed = "german shepard",
                 Gender = "male"
             };
 
+            Eagle eagle = (Eagle)animal;
 
 
-            
+            //Animal[] animals = { animal, animal2 };
 
-            Eagle test = (Eagle)eagle;//Explicit operator/ Explicit casting
+            //foreach (Animal anml in animals)
+            //{
+            //    Console.WriteLine(anml.AvgLifeTime);
+            //    Console.WriteLine(anml.Gender);
+            //    anml.MakeSound();
 
-            Console.WriteLine(test.ClawPower);
+            //    if(anml is Dog dog)
+            //    {
+            //        Console.WriteLine(dog.Breed);
+            //    }
+            //    else if(anml is Eagle eagle)
+            //    {
+            //        Console.WriteLine("Egale claw power:"+eagle.ClawPower);
+            //    }
+
+
+            //    Console.WriteLine("--------------");
+
+
+
+            //}
+
+
+            //1)Explicit
+
+            //Eagle test = (Eagle)animal;///Explicit operator/ Explicit casting
+
+            //Animal animal = new Eagle()
+            //Eagle eagle=animal as Eagle
+
+
+            //2) AS casting operatoru ile casting
+
+            //Eagle test = animal2 as Eagle;
+            //if (test is not null)
+            //{
+            //    Console.WriteLine(test.ClawPower);
+            //    Console.WriteLine(test.Gender);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Wrong input");
+            //}
+
+            //3) is Operatoru ile castin(AMMA CASTING OPERATORU DEYIL!!!  Achtung!!!)
+
+            //if (animal2 is Eagle test)
+            //{
+
+            //    Console.WriteLine(test.ClawPower);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Object is not eagle type");
+            //}
+
+
 
 
 
@@ -38,36 +100,10 @@ namespace UpcastingExamples
             //Animal animal = dog;//implicit casting/ implicit operator/Upcasting
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            
-
             //PetShop petShop = new PetShop();
 
             //petShop.Feed(dog);
             //petShop.Feed(eagle);
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -215,6 +251,28 @@ namespace UpcastingExamples
         //{
         //    Console.WriteLine(test.X);
         //}
+
+        public static int BinarySearch(ReadOnlySpan<int> array, int target)
+        {
+            if (array.IsEmpty) return -1;
+
+            int left = 0;
+            int right = array.Length - 1;
+
+            int mid = (left + right) >> 1;
+
+            while ( array[mid] != target)
+            {
+                if (array[mid] < target)
+                    left = mid + 1;
+                else
+                    right = mid - 1;
+
+                mid = (left + right) >> 1;
+            }
+
+            return left <= right ? mid : -1;
+        }
 
 
     }
