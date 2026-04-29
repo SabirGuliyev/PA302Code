@@ -1,0 +1,7 @@
+C:\Users\sabir\source\repos\GenericExample\GenericExample\bin\Debug\GenericExample.exe.config
+C:\Users\sabir\source\repos\GenericExample\GenericExample\bin\Debug\GenericExample.exe
+C:\Users\sabir\source\repos\GenericExample\GenericExample\bin\Debug\GenericExample.pdb
+C:\Users\sabir\source\repos\GenericExample\GenericExample\obj\Debug\GenericExample.csproj.AssemblyReference.cache
+C:\Users\sabir\source\repos\GenericExample\GenericExample\obj\Debug\GenericExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\source\repos\GenericExample\GenericExample\obj\Debug\GenericExample.exe
+C:\Users\sabir\source\repos\GenericExample\GenericExample\obj\Debug\GenericExample.pdb
