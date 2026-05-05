@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\EnumExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|c:\\users\\sabir\\desktop\\enumexample\\enumexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|c:\\users\\sabir\\desktop\\enumexample\\enumexample\\utilities\\enums\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\utilities\\enums\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|c:\\users\\sabir\\desktop\\enumexample\\enumexample\\models\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\models\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|c:\\users\\sabir\\desktop\\enumexample\\enumexample\\models\\personclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\models\\personclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|c:\\users\\sabir\\desktop\\enumexample\\enumexample\\models\\personrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\models\\personrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|c:\\users\\sabir\\desktop\\enumexample\\enumexample\\models\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B84B879-CB3C-4338-82DC-189C973B45CE}|EnumExample\\EnumExample.csproj|solutionrelative:enumexample\\models\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeekDay.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Utilities\\Enums\\WeekDay.cs",
+              "RelativeDocumentMoniker": "EnumExample\\Utilities\\Enums\\WeekDay.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Utilities\\Enums\\WeekDay.cs",
+              "RelativeToolTip": "EnumExample\\Utilities\\Enums\\WeekDay.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:27:19.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Models\\Money.cs",
+              "RelativeDocumentMoniker": "EnumExample\\Models\\Money.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Models\\Money.cs",
+              "RelativeToolTip": "EnumExample\\Models\\Money.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:34:14.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRecord.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Models\\StudentRecord.cs",
+              "RelativeDocumentMoniker": "EnumExample\\Models\\StudentRecord.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Models\\StudentRecord.cs",
+              "RelativeToolTip": "EnumExample\\Models\\StudentRecord.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:27:59.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonRecord.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Models\\PersonRecord.cs",
+              "RelativeDocumentMoniker": "EnumExample\\Models\\PersonRecord.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Models\\PersonRecord.cs",
+              "RelativeToolTip": "EnumExample\\Models\\PersonRecord.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:20:09.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonClass.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Models\\PersonClass.cs",
+              "RelativeDocumentMoniker": "EnumExample\\Models\\PersonClass.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Models\\PersonClass.cs",
+              "RelativeToolTip": "EnumExample\\Models\\PersonClass.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:19:33.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Program.cs",
+              "RelativeDocumentMoniker": "EnumExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EnumExample\\EnumExample\\Program.cs",
+              "RelativeToolTip": "EnumExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:17:47.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
