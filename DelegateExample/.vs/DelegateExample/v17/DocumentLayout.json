@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\DelegateExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2756435-D461-4A8A-80AC-C7270E1243FB}|DelegateExample\\DelegateExample.csproj|c:\\users\\sabir\\desktop\\delegateexample\\delegateexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2756435-D461-4A8A-80AC-C7270E1243FB}|DelegateExample\\DelegateExample.csproj|solutionrelative:delegateexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2756435-D461-4A8A-80AC-C7270E1243FB}|DelegateExample\\DelegateExample.csproj|c:\\users\\sabir\\desktop\\delegateexample\\delegateexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2756435-D461-4A8A-80AC-C7270E1243FB}|DelegateExample\\DelegateExample.csproj|solutionrelative:delegateexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2756435-D461-4A8A-80AC-C7270E1243FB}|DelegateExample\\DelegateExample.csproj|c:\\users\\sabir\\desktop\\delegateexample\\delegateexample\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2756435-D461-4A8A-80AC-C7270E1243FB}|DelegateExample\\DelegateExample.csproj|solutionrelative:delegateexample\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2756435-D461-4A8A-80AC-C7270E1243FB}|DelegateExample\\DelegateExample.csproj|c:\\users\\sabir\\desktop\\delegateexample\\delegateexample\\enums\\grouptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2756435-D461-4A8A-80AC-C7270E1243FB}|DelegateExample\\DelegateExample.csproj|solutionrelative:delegateexample\\enums\\grouptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2756435-D461-4A8A-80AC-C7270E1243FB}|DelegateExample\\DelegateExample.csproj|c:\\users\\sabir\\desktop\\delegateexample\\delegateexample\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2756435-D461-4A8A-80AC-C7270E1243FB}|DelegateExample\\DelegateExample.csproj|solutionrelative:delegateexample\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupType.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\DelegateExample\\DelegateExample\\Enums\\GroupType.cs",
+              "RelativeDocumentMoniker": "DelegateExample\\Enums\\GroupType.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\DelegateExample\\DelegateExample\\Enums\\GroupType.cs",
+              "RelativeToolTip": "DelegateExample\\Enums\\GroupType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:21:47.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\DelegateExample\\DelegateExample\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "DelegateExample\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\DelegateExample\\DelegateExample\\Models\\Group.cs",
+              "RelativeToolTip": "DelegateExample\\Models\\Group.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAQwE8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:19:54.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\DelegateExample\\DelegateExample\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "DelegateExample\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\DelegateExample\\DelegateExample\\Enums\\Gender.cs",
+              "RelativeToolTip": "DelegateExample\\Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:14:50.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\DelegateExample\\DelegateExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DelegateExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\DelegateExample\\DelegateExample\\Models\\Student.cs",
+              "RelativeToolTip": "DelegateExample\\Models\\Student.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:07:36.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\DelegateExample\\DelegateExample\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\DelegateExample\\DelegateExample\\Program.cs",
+              "RelativeToolTip": "DelegateExample\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAQwDsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T15:00:58.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
