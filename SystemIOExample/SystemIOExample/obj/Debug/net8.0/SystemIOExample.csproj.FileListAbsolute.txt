@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\bin\Debug\net8.0\SystemIOExample.exe
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\bin\Debug\net8.0\SystemIOExample.deps.json
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\bin\Debug\net8.0\SystemIOExample.runtimeconfig.json
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\bin\Debug\net8.0\SystemIOExample.dll
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\bin\Debug\net8.0\SystemIOExample.pdb
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\obj\Debug\net8.0\SystemIOExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\obj\Debug\net8.0\SystemIOExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\obj\Debug\net8.0\SystemIOExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\obj\Debug\net8.0\SystemIOExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\obj\Debug\net8.0\SystemIOExample.dll
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\obj\Debug\net8.0\refint\SystemIOExample.dll
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\obj\Debug\net8.0\SystemIOExample.pdb
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\obj\Debug\net8.0\SystemIOExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\SystemIOExample\SystemIOExample\obj\Debug\net8.0\ref\SystemIOExample.dll
