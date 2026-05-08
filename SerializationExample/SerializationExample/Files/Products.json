@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "Name": "Samsung a22",
+    "Price": 500.0,
+    "Category": {
+      "Id": 1,
+      "Name": "Smartphone"
+    }
+  },
+  {
+    "Id": 2,
+    "Name": "Iphone 16",
+    "Price": 3000.0,
+    "Category": {
+      "Id": 1,
+      "Name": "Smartphone"
+    }
+  },
+  {
+    "Id": 4,
+    "Name": "LG oled",
+    "Price": 2500.0,
+    "Category": {
+      "Id": 2,
+      "Name": "TV"
+    }
+  },
+  {
+    "Id": 5,
+    "Name": "MSI",
+    "Price": 1500.0,
+    "Category": {
+      "Id": 3,
+      "Name": "Notebook"
+    }
+  },
+  {
+    "Id": 20,
+    "Name": "Test",
+    "Price": 500.0,
+    "Category": {
+      "Id": 80,
+      "Name": "testcategory"
+    }
+  }
+]

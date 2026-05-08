@@ -1,0 +1,17 @@
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\bin\Debug\net8.0\SerializationExample.exe
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\bin\Debug\net8.0\SerializationExample.deps.json
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\bin\Debug\net8.0\SerializationExample.runtimeconfig.json
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\bin\Debug\net8.0\SerializationExample.dll
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\bin\Debug\net8.0\SerializationExample.pdb
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\obj\Debug\net8.0\SerializationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\obj\Debug\net8.0\SerializationExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\obj\Debug\net8.0\SerializationExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\obj\Debug\net8.0\SerializationExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\obj\Debug\net8.0\SerializationExample.dll
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\obj\Debug\net8.0\refint\SerializationExample.dll
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\obj\Debug\net8.0\SerializationExample.pdb
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\obj\Debug\net8.0\SerializationExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\obj\Debug\net8.0\ref\SerializationExample.dll
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\obj\Debug\net8.0\SerializationExample.csproj.AssemblyReference.cache
+C:\Users\sabir\Desktop\SerializationExample\SerializationExample\obj\Debug\net8.0\Serializ.81208035.Up2Date
