@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SystemIOExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c425f1189b1a2358bdb71f04b085e0952cdf6306")]
 [assembly: System.Reflection.AssemblyProductAttribute("SystemIOExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SystemIOExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

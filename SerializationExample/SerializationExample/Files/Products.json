@@ -34,14 +34,5 @@
       "Id": 3,
       "Name": "Notebook"
     }
-  },
-  {
-    "Id": 20,
-    "Name": "Test",
-    "Price": 500.0,
-    "Category": {
-      "Id": 80,
-      "Name": "testcategory"
-    }
   }
 ]

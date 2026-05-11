@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using SerializationExample.Models;
+using System.IO;
 
 namespace SerializationExample
 {
@@ -130,10 +131,8 @@ namespace SerializationExample
             // sw.Write(newJson);
             // sw.Close();
 
-            string path = @"C:\Users\sabir\Desktop\SerializationExample\SerializationExample\Files\Products.json";
 
-
-            Product product = new Product { Id=20, Name="Test", Price=500,Category=new Category {Id=80,Name="testcategory" } };
+            //Product product = new Product { Id=20, Name="Test", Price=500,Category=new Category {Id=80,Name="testcategory" } };
 
 
 
@@ -143,57 +142,56 @@ namespace SerializationExample
 
 
 
-            Remove(3, path);
+            //Remove(3, path);
 
+            string path = @"C:\Users\sabir\Desktop\PA302Code\SerializationExample\SerializationExample\Files\Products.json";
+
+            Remove(20,path);
+
+            Console.WriteLine(Search("MSI",path));
+            Console.WriteLine(Search("MSI123",path));
 
 
 
         }
 
-
-        public static void Add(Product product, string path) {
-
-            StreamReader sr = new StreamReader(path);
-
-            string json=sr.ReadToEnd();
-
-            sr.Close();
-
-            var products = JsonConvert.DeserializeObject<List<Product>>(json);
-
-            products.Add(product);
-
-            string newJson=JsonConvert.SerializeObject(products);
-
-            StreamWriter sw = new StreamWriter(path);
-            sw.Write(newJson);
-
-            sw.Close();
-
-        }
-        public static void Remove(int id, string path)
+        public static List<Product> Deserialize(string path)
         {
+            StreamReader streamReader = new StreamReader(path);
+            string json = streamReader.ReadToEnd();
+            streamReader.Close();
 
-            StreamReader sr = new StreamReader(path);
-
-            string json = sr.ReadToEnd();
-
-            sr.Close();
-
-            var products = JsonConvert.DeserializeObject<List<Product>>(json);
-
-            products.Remove(products.Find(p => p.Id == id));
-
+            return JsonConvert.DeserializeObject<List<Product>>(json);
+        }
+        public static void Serialize(List<Product> products, string path)
+        {
             string newJson = JsonConvert.SerializeObject(products);
 
             StreamWriter sw = new StreamWriter(path);
             sw.Write(newJson);
 
             sw.Close();
+        }
 
+        public static void Add(Product product, string path) {
 
+            var products=Deserialize(path);
+            products.Add(product);
+            Serialize(products, path);
 
+        }
+        public static void Remove(int id, string path)
+        {
+            var products = Deserialize(path);
+            products.Remove(products.Find(p => p.Id == id));
+            Serialize(products, path);
+        }
 
+        public static bool Search(string name, string path) {
+            List<Product> products = Deserialize(path);
+            bool result = products.Any(p=>p.Name.ToLower()==name.ToLower());
+            return result;
+        
         }
 
 

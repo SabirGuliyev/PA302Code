@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\SerializationExample\\",
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|c:\\users\\sabir\\desktop\\serializationexample\\serializationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\serializationexample\\serializationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|solutionrelative:serializationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|c:\\users\\sabir\\desktop\\serializationexample\\serializationexample\\files\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\serializationexample\\serializationexample\\files\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|solutionrelative:serializationexample\\files\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|c:\\users\\sabir\\desktop\\serializationexample\\serializationexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\serializationexample\\serializationexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|solutionrelative:serializationexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|c:\\users\\sabir\\desktop\\serializationexample\\serializationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\serializationexample\\serializationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|solutionrelative:serializationexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|c:\\users\\sabir\\desktop\\serializationexample\\serializationexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\serializationexample\\serializationexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE81FA9B-0B38-4B76-A120-D3CBCE95EEA5}|SerializationExample\\SerializationExample.csproj|solutionrelative:serializationexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Products.json",
-              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\SerializationExample\\SerializationExample\\Files\\Products.json",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\SerializationExample\\Files\\Products.json",
               "RelativeDocumentMoniker": "SerializationExample\\Files\\Products.json",
-              "ToolTip": "C:\\Users\\sabir\\Desktop\\SerializationExample\\SerializationExample\\Files\\Products.json",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\SerializationExample\\Files\\Products.json",
               "RelativeToolTip": "SerializationExample\\Files\\Products.json",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAEAAAACAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-08T17:13:45.456Z",
               "EditorCaption": ""
@@ -53,50 +53,47 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\SerializationExample\\SerializationExample\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\SerializationExample\\Models\\Product.cs",
               "RelativeDocumentMoniker": "SerializationExample\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\sabir\\Desktop\\SerializationExample\\SerializationExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\SerializationExample\\Models\\Product.cs",
               "RelativeToolTip": "SerializationExample\\Models\\Product.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T17:01:56.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T17:01:56.706Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\SerializationExample\\SerializationExample\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\SerializationExample\\Models\\Category.cs",
               "RelativeDocumentMoniker": "SerializationExample\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\sabir\\Desktop\\SerializationExample\\SerializationExample\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\SerializationExample\\Models\\Category.cs",
               "RelativeToolTip": "SerializationExample\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T17:01:24.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T17:01:24.917Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\SerializationExample\\SerializationExample\\Models\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\SerializationExample\\Models\\Person.cs",
               "RelativeDocumentMoniker": "SerializationExample\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\sabir\\Desktop\\SerializationExample\\SerializationExample\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\SerializationExample\\Models\\Person.cs",
               "RelativeToolTip": "SerializationExample\\Models\\Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T15:15:51.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T15:15:51.315Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\SerializationExample\\SerializationExample\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\SerializationExample\\Program.cs",
               "RelativeDocumentMoniker": "SerializationExample\\Program.cs",
-              "ToolTip": "C:\\Users\\sabir\\Desktop\\SerializationExample\\SerializationExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\SerializationExample\\Program.cs",
               "RelativeToolTip": "SerializationExample\\Program.cs",
-              "ViewState": "AQIAAJIAAAAAAAAAAAAQwJ0AAAAnAAAA",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAgwLQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-08T15:07:45.225Z",
               "EditorCaption": ""

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wEYuJ56vdCOpE5wWGZYVXSXhqOsrdLoB5uLOV5zZnRh1/HHT+mFV/WhVBzlwMoVtZBe3TOwB3hAFpRZWDaTA0Q==",
+  "dgSpecHash": "fXSAGJap4UJoQZFH4tyB+0ft8xLVpi0uuZ4N87Xs0oqp02KOwlmOymgLKBVaYEEPMhU48jDlJdqC6RwkhpxqCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sabir\\Desktop\\SerializationExample\\SerializationExample\\SerializationExample.csproj",
+  "projectFilePath": "C:\\Users\\sabir\\Desktop\\PA302Code\\SerializationExample\\SerializationExample\\SerializationExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sabir\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
   ],
