@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultithreadingExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea4b9e1f771d34b717b5708fcea607539401d4a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultithreadingExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultithreadingExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

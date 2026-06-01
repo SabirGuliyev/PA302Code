@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\MultithreadingExample\\",
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PA302Code\\MultithreadingExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28CC63DD-4DEC-4A06-88BB-20548DE75996}|MultithreadingExample\\MultithreadingExample.csproj|c:\\users\\sabir\\desktop\\multithreadingexample\\multithreadingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28CC63DD-4DEC-4A06-88BB-20548DE75996}|MultithreadingExample\\MultithreadingExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\multithreadingexample\\multithreadingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28CC63DD-4DEC-4A06-88BB-20548DE75996}|MultithreadingExample\\MultithreadingExample.csproj|solutionrelative:multithreadingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\MultithreadingExample\\MultithreadingExample\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\MultithreadingExample\\MultithreadingExample\\Program.cs",
               "RelativeDocumentMoniker": "MultithreadingExample\\Program.cs",
-              "ToolTip": "C:\\Users\\sabir\\Desktop\\MultithreadingExample\\MultithreadingExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\MultithreadingExample\\MultithreadingExample\\Program.cs",
               "RelativeToolTip": "MultithreadingExample\\Program.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDUAAAANAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAABoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T15:56:39.841Z",
               "EditorCaption": ""

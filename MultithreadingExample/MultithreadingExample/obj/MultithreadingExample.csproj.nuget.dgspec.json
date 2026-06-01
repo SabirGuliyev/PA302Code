@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sabir\\Desktop\\MultithreadingExample\\MultithreadingExample\\MultithreadingExample.csproj": {}
+    "C:\\Users\\sabir\\Desktop\\PA302Code\\MultithreadingExample\\MultithreadingExample\\MultithreadingExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sabir\\Desktop\\MultithreadingExample\\MultithreadingExample\\MultithreadingExample.csproj": {
+    "C:\\Users\\sabir\\Desktop\\PA302Code\\MultithreadingExample\\MultithreadingExample\\MultithreadingExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sabir\\Desktop\\MultithreadingExample\\MultithreadingExample\\MultithreadingExample.csproj",
+        "projectUniqueName": "C:\\Users\\sabir\\Desktop\\PA302Code\\MultithreadingExample\\MultithreadingExample\\MultithreadingExample.csproj",
         "projectName": "MultithreadingExample",
-        "projectPath": "C:\\Users\\sabir\\Desktop\\MultithreadingExample\\MultithreadingExample\\MultithreadingExample.csproj",
+        "projectPath": "C:\\Users\\sabir\\Desktop\\PA302Code\\MultithreadingExample\\MultithreadingExample\\MultithreadingExample.csproj",
         "packagesPath": "C:\\Users\\sabir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sabir\\Desktop\\MultithreadingExample\\MultithreadingExample\\obj\\",
+        "outputPath": "C:\\Users\\sabir\\Desktop\\PA302Code\\MultithreadingExample\\MultithreadingExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
