@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OnionPA302.Domain/1.0.0": {
+        "runtime": {
+          "OnionPA302.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnionPA302.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/presentation/">
+    <Project Path="presentation/OnionPA302.ConsoleApp/OnionPA302.ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="src/Core/OnionPA302.Application/OnionPA302.Application.csproj" />
+    <Project Path="src/Core/OnionPA302.Domain/OnionPA302.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="src/Infrastructure/OnionPA302.Persistence/OnionPA302.Persistence.csproj" />
+  </Folder>
+</Solution>

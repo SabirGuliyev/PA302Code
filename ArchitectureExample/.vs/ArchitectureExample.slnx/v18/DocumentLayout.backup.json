@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PA302Code\\ArchitectureExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB613FDB-91D6-4691-976A-E5A65FFA1FB0}|ArchitectureExample\\ArchitectureExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\architectureexample\\architectureexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB613FDB-91D6-4691-976A-E5A65FFA1FB0}|ArchitectureExample\\ArchitectureExample.csproj|solutionrelative:architectureexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ArchitectureExample\\ArchitectureExample\\Program.cs",
+              "RelativeDocumentMoniker": "ArchitectureExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ArchitectureExample\\ArchitectureExample\\Program.cs",
+              "RelativeToolTip": "ArchitectureExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T14:37:52.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

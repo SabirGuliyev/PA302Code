@@ -1,0 +1,16 @@
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\bin\Debug\net8.0\OnionPA302.Application.deps.json
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\bin\Debug\net8.0\OnionPA302.Application.dll
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\bin\Debug\net8.0\OnionPA302.Application.pdb
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\bin\Debug\net8.0\OnionPA302.Domain.dll
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\bin\Debug\net8.0\OnionPA302.Domain.pdb
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\obj\Debug\net8.0\OnionPA302.Application.csproj.AssemblyReference.cache
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\obj\Debug\net8.0\OnionPA302.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\obj\Debug\net8.0\OnionPA302.Application.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\obj\Debug\net8.0\OnionPA302.Application.AssemblyInfo.cs
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\obj\Debug\net8.0\OnionPA302.Application.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\obj\Debug\net8.0\OnionPA302.Application.sourcelink.json
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\obj\Debug\net8.0\OnionPA3.BC112982.Up2Date
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\obj\Debug\net8.0\OnionPA302.Application.dll
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\obj\Debug\net8.0\refint\OnionPA302.Application.dll
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\obj\Debug\net8.0\OnionPA302.Application.pdb
+C:\Users\sabir\Desktop\PA302Code\OnionPA302\src\Core\OnionPA302.Application\obj\Debug\net8.0\ref\OnionPA302.Application.dll

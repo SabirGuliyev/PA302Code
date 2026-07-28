@@ -1,0 +1,506 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\services\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\managementapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\managementapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\common\\serviceinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\common\\serviceinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\repositories\\implementations\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\repositories\\implementations\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\repositories\\implementations\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\repositories\\implementations\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\entities\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\entities\\studentsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\entities\\studentsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\migrations\\20260625161834_initializedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\migrations\\20260625161834_initializedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260625160905_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConfigurationExample\\Migrations\\20260625160905_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\configurations\\studentsubjectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\configurations\\studentsubjectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260624164726_InitializeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConfigurationExample\\Migrations\\20260624164726_InitializeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260624164203_InitializeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConfigurationExample\\Migrations\\20260624164203_InitializeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260624152814_InitializeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConfigurationExample\\Migrations\\20260624152814_InitializeDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\configurationexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\configurationexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\sabir\\desktop\\pa302code\\configurationexample\\configurationexample\\migrations\\20260629173605_changecolumnname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\migrations\\20260629173605_changecolumnname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ConfigurationExample\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T17:17:29.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\Student.cs",
+              "RelativeToolTip": "ConfigurationExample\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T15:18:46.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ConfigurationExample\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T16:34:49.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ConfigurationExample\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T16:41:48.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Services\\Implementation\\ProductService.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Services\\Implementation\\ProductService.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Services\\Implementation\\ProductService.cs",
+              "RelativeToolTip": "ConfigurationExample\\Services\\Implementation\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T17:17:40.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ConfigurationExample\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T16:39:15.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "ConfigurationExample\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T15:47:01.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagementApplication.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\ManagementApplication.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\ManagementApplication.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\ManagementApplication.cs",
+              "RelativeToolTip": "ConfigurationExample\\ManagementApplication.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T17:09:49.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "ConfigurationExample\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T16:46:13.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Implementations\\Test.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Repositories\\Implementations\\Test.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Implementations\\Test.cs",
+              "RelativeToolTip": "ConfigurationExample\\Repositories\\Implementations\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T16:44:39.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServiceInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Common\\ServiceInitializer.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Common\\ServiceInitializer.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Common\\ServiceInitializer.cs",
+              "RelativeToolTip": "ConfigurationExample\\Common\\ServiceInitializer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAawBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T17:22:07.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAUVAAAAAAAAAAAhwBIVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-29T17:40:35.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20260629173605_CHangeColumnName.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260629173605_CHangeColumnName.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Migrations\\20260629173605_CHangeColumnName.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260629173605_CHangeColumnName.cs",
+              "RelativeToolTip": "ConfigurationExample\\Migrations\\20260629173605_CHangeColumnName.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T17:36:05.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Program.cs",
+              "RelativeToolTip": "ConfigurationExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T14:49:26.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Implementations\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Repositories\\Implementations\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Repositories\\Implementations\\SubjectRepository.cs",
+              "RelativeToolTip": "ConfigurationExample\\Repositories\\Implementations\\SubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T15:52:30.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\Product.cs",
+              "RelativeToolTip": "ConfigurationExample\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T15:19:07.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\Category.cs",
+              "RelativeToolTip": "ConfigurationExample\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T15:19:13.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Entities\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "ConfigurationExample\\Entities\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T17:46:50.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\Subject.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Entities\\Subject.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\Subject.cs",
+              "RelativeToolTip": "ConfigurationExample\\Entities\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:06:42.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentSubject.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\StudentSubject.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Entities\\StudentSubject.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Entities\\StudentSubject.cs",
+              "RelativeToolTip": "ConfigurationExample\\Entities\\StudentSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T17:07:10.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "ConfigurationExample\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:23:09.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260625161834_InitializeDB.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260625161834_InitializeDB.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Migrations\\20260625161834_InitializeDB.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260625161834_InitializeDB.cs",
+              "RelativeToolTip": "ConfigurationExample\\Migrations\\20260625161834_InitializeDB.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T16:18:34.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260625160905_test.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260625160905_test.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Migrations\\20260625160905_test.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260625160905_test.cs",
+              "RelativeToolTip": "ConfigurationExample\\Migrations\\20260625160905_test.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwBIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T16:09:05.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Configurations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Configurations\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Configurations\\StudentConfiguration.cs",
+              "RelativeToolTip": "ConfigurationExample\\Configurations\\StudentConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:33:06.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentSubjectConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Configurations\\StudentSubjectConfiguration.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Configurations\\StudentSubjectConfiguration.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Configurations\\StudentSubjectConfiguration.cs",
+              "RelativeToolTip": "ConfigurationExample\\Configurations\\StudentSubjectConfiguration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:37:50.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "ConfigurationExample\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T15:31:23.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConfigurationExample.csproj",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\ConfigurationExample.csproj",
+              "RelativeDocumentMoniker": "ConfigurationExample\\ConfigurationExample.csproj",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\ConfigurationExample.csproj",
+              "RelativeToolTip": "ConfigurationExample\\ConfigurationExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-24T17:12:28.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260624164726_InitializeDb.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260624164726_InitializeDb.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Migrations\\20260624164726_InitializeDb.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260624164726_InitializeDb.cs",
+              "RelativeToolTip": "ConfigurationExample\\Migrations\\20260624164726_InitializeDb.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T16:47:26.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20260624164203_InitializeDb.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260624164203_InitializeDb.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Migrations\\20260624164203_InitializeDb.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260624164203_InitializeDb.cs",
+              "RelativeToolTip": "ConfigurationExample\\Migrations\\20260624164203_InitializeDb.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T16:42:03.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20260624152814_InitializeDb.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260624152814_InitializeDb.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\Migrations\\20260624152814_InitializeDb.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\PA302Code\\ConfigurationExample\\ConfigurationExample\\Migrations\\20260624152814_InitializeDb.cs",
+              "RelativeToolTip": "ConfigurationExample\\Migrations\\20260624152814_InitializeDb.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwDAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T15:28:14.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
